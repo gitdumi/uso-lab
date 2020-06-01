@@ -4,6 +4,6 @@
 
 int globalVar = 3;
 
-void print1() {
+void bad() {
     printf("Hi from a!\n");
 }

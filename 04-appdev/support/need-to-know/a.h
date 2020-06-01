@@ -3,6 +3,6 @@
 
 extern int globalVar;
 
-void print1();
+void bad();
 
 #endif

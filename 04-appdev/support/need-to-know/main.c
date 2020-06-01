@@ -6,7 +6,7 @@
 
 int main() {
     printf("globalVar = %d\n", globalVar);
-    print1();
+bad();
 
     double value = print2(0.5);
     printf("value = %f\n", value);
