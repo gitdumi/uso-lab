@@ -1,4 +1,4 @@
-rule1: print.c
+build: print.c
 	gcc -Wall print.c -o print
 
 clean:
